@@ -1,0 +1,2 @@
+É um ambiente shell baseado em navegador, pré-autenticado com as informações de console.
+Usado para executar comandos e scripts da AWS CLI utilizando o navegador. É útil para interagir com segurança com a conta AWS e é específico da Região.
