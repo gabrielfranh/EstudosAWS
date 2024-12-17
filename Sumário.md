@@ -1,9 +1,18 @@
 - ### [[Infraestrutura Global AWS]]
 - ### [[Benefícios e Modelos do Cloud Computing]]
 - ### [[Ferramentas do Desenvolvedor]]
+
 - ### Serviços AWS
 	- #### [[AWS Health]]
 	- #### [[AWS Cloud Shell]]
 	- #### [[Amazon Elastic Compute Cloud (EC2)]]
 	- #### [[Elastic Load Balancer (ELB)]]
 	- #### [[Mensagens e Filas]]
+	- ##### Serverless
+		- [[AWS Lambda]]
+		- [[AWS Fargate]]
+		- [[Elastic Container Service (ECS)]]
+		- [[Elastic Kubernetes Service (EKS)]]
+	- [[AWS Elastic Beanstalk]]
+	- [[AWS Cloud Formation]]
+	- [[Amazon Virtual Private Cloud (VPC)]]
