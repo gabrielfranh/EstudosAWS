@@ -5,4 +5,5 @@
 	- #### [[AWS Health]]
 	- #### [[AWS Cloud Shell]]
 	- #### [[Amazon Elastic Compute Cloud (EC2)]]
-	- 
+	- #### [[Elastic Load Balancer (ELB)]]
+	- #### [[Mensagens e Filas]]

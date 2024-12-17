@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9c307964767489b6",
+        "id": "462ae70095a169da",
         "type": "tabs",
         "children": [
           {
-            "id": "bcf6e35d1d16c97e",
+            "id": "6d15bf712fedca3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benefícios e Modelos do Cloud Computing.md",
+                "file": "Página Inicial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Benefícios e Modelos do Cloud Computing"
+              "title": "Página Inicial"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -154,14 +154,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "bcf6e35d1d16c97e",
-  "lastOpenFiles": []
+  "active": "6d15bf712fedca3c",
+  "lastOpenFiles": [
+    "Serviços AWS/Mensagens e Filas.md",
+    "Serviços AWS/Elastic Load Balancer (ELB).md",
+    "Serviços AWS/Amazon Elastic Compute Cloud (EC2).md",
+    "Serviços AWS/Images/ALB.png",
+    "Serviços AWS/Images",
+    "Serviços AWS/Images/LoadBalancerDifferences.png",
+    "Página Inicial.md",
+    "Serviços AWS/Images/AutoScalling.png",
+    "Serviços AWS/AutoScalling.drawio.png",
+    "Untitled.canvas",
+    "Benefícios e Modelos do Cloud Computing.md",
+    "Ferramentas do Desenvolvedor.md",
+    "Infraestrutura Global AWS.md",
+    "Serviços AWS/AWS Health.md",
+    "Serviços AWS/AWS Cloud Shell.md",
+    "Untitled"
+  ]
 }

@@ -32,3 +32,6 @@
 - ### Software como Serviço (SaaS)
 	Oferece um produto complexo, executado e gerenciado pelo provedor de serviços. Na maioria dos casos, quando as pessoas mencionam SaaS, estão falando de aplicações de usuários finais.
 	Com uma oferta de SaaS, não é necessário pensar como o serviço é mantido ou como a infraestrutura é gerenciada, basta pensar em como usará o software.
+
+
+
