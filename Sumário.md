@@ -16,3 +16,4 @@
 	- [[AWS Elastic Beanstalk]]
 	- [[AWS Cloud Formation]]
 	- [[Amazon Virtual Private Cloud (VPC)]]
+	- [[Amazon Route 53]]

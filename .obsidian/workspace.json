@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sumário.md",
+                "file": "Serviços AWS/Amazon Route 53.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sumário"
+              "title": "Amazon Route 53"
             }
           }
         ]
@@ -164,14 +164,17 @@
   },
   "active": "9061ad7b902ff59e",
   "lastOpenFiles": [
-    "Serviços AWS/Amazon Virtual Private Cloud (VPC).md",
-    "Serviços AWS/AWS Cloud Formation.md",
     "Sumário.md",
+    "Serviços AWS/Amazon Route 53.md",
+    "Serviços AWS/Amazon Virtual Private Cloud (VPC).md",
+    "Serviços AWS/Untitled.md",
+    "Serviços AWS/Images/AclSecGroup.jpg",
+    "Serviços AWS/Amazon Elastic Compute Cloud (EC2).md",
+    "Serviços AWS/Amazon Cloud Front.md",
+    "Serviços AWS/AWS Cloud Formation.md",
     "Serviços AWS/AWS Elastic Beanstalk.md",
     "Infraestrutura Global AWS.md",
     "Serviços AWS/Elastic Load Balancer (ELB).md",
-    "Serviços AWS/Amazon Route 53.md",
-    "Serviços AWS/Amazon Cloud Front.md",
     "Serviços AWS/AWS Fargate.md",
     "Serviços AWS/Images/Ec2Fargate.png",
     "Serviços AWS/Images/EcsEks.png",
@@ -179,7 +182,6 @@
     "Serviços AWS/Elastic Container Service (ECS).md",
     "Serviços AWS/AWS Lambda.md",
     "Serviços AWS/Mensagens e Filas.md",
-    "Serviços AWS/Amazon Elastic Compute Cloud (EC2).md",
     "Serviços AWS/Images/ALB.png",
     "Serviços AWS/Images",
     "Serviços AWS/Images/LoadBalancerDifferences.png",
